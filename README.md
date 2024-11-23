@@ -1,4 +1,4 @@
-# 🌟 Arifzyn | Web Developer Sensei 🚀
+# Arifzyn | Web Developer
 
 <p align="center">
   <img src="https://media.giphy.com/media/YOUR_ANIME_GIF_HERE/giphy.gif" width="300">
