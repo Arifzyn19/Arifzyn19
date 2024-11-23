@@ -12,10 +12,10 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=4000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=Back-end+Developer+%F0%9F%92%BB;Front-end+Explorer+%F0%9F%8C%90;System+Programming+Wizard+%E2%9C%A8;DevOps+Sensei+%F0%9F%94%A7)
 
-## 🔧 My Tech Chakra 🌈
+## ⚡ My Skill 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,docker,git" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,ts,nodejs,react,nextjs,git,mongodb" />
 </p>
 
 ## 📊 GitHub Power Level 🔥
