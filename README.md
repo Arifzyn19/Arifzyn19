@@ -1,23 +1,25 @@
 <div align="center">
-    <img src="./media/23469e7b288916160258b7da587885f1.jpg" width="250" height="350" style="border-radius: 50%; object-fit: cover;" />
+    <img src="./media/23469e7b288916160258b7da587885f1.jpg" width="250" height="250" style="border-radius: 50%; object-fit: cover;" />
     
-    # 🌟 Arifzyn | Tech Enthusiast 🚀
+    <h1 style="font-size: 2.5em; color: #6F38F7;">🌟 Arifzyn | Tech Enthusiast 🚀</h1>
 
-    ## 💫 About Me
+    <h2 style="font-size: 1.5em; color: #333;">💫 About Me</h2>
     
-    A passionate developer weaving magic through code and creativity! 🧙‍♀️✨
+    <p style="font-size: 1.1em; color: #555; max-width: 600px;">A passionate developer weaving magic through code and creativity! 🧙‍♀️✨</p>
 
-    ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=500&color=6F38F7&center=true&vCenter=true&width=600&lines=Back-end+Developer+%F0%9F%92%BB;Front-end+Explorer+%F0%9F%8C%90;System+Programming+Wizard+%E2%9C%A8;DevOps+Enthusiast+%F0%9F%94%A7)
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=500&color=6F38F7&center=true&vCenter=true&width=600&lines=Back-end+Developer+%F0%9F%92%BB;Front-end+Explorer+%F0%9F%8C%90;System+Programming+Wizard+%E2%9C%A8;DevOps+Enthusiast+%F0%9F%94%A7" />
 </div>
 
 ## 🔧 Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+<div align="center">
+    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+    <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript" />
+    <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
+    <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
+    <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" />
+    <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+</div>
 
 ## 📊 GitHub Stats
 
@@ -28,9 +30,20 @@
 
 ## 🚀 Featured Projects
 
-| 🌐 Project | 📝 Description | 🛠️ Technologies |
-|-----------|----------------|-----------------|
-| [AR-CDN](https://github.com/Arifzyn19/AR-CDN) | Simple File Hosting Platform | Node.js, Express |
+<div align="center">
+    <table>
+        <tr>
+            <th>🌐 Project</th>
+            <th>📝 Description</th>
+            <th>🛠️ Technologies</th>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Arifzyn19/AR-CDN">AR-CDN</a></td>
+            <td>Simple File Hosting Platform</td>
+            <td>Node.js, Express</td>
+        </tr>
+    </table>
+</div>
 
 ## 🌍 Connect With Me
 
@@ -45,7 +58,9 @@
 
 ## 📈 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=Arifzyn19&color=blueviolet)
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Arifzyn19&color=blueviolet" />
+</div>
 
 ---
 
