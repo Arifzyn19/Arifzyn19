@@ -1,9 +1,9 @@
 [
   {
-    owner: '6285211997125',
-    nomorbot: '6285211997125',
-    access: true,
-    email: 'fauzialifatah@gmail.com',
-    key: 'fauzi321'
+    Owner: "6285211997125",
+    NomorBot: "6285211997125",
+    Access: true,
+    Email: "fauzialifatah@gmail.com",
+    Key: "fauzi321"
   }
 ]
