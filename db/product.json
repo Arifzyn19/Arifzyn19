@@ -1,0 +1,104 @@
+{
+    "products": [
+        {
+            "category": "panel",
+            "items": [
+                {
+                    "id": "panel-1gb",
+                    "title": "Panel Pterodactyl 1GB",
+                    "price": 2000,
+                    "image": "image/panel1.jpg"
+                },
+                {
+                    "id": "panel-2gb",
+                    "title": "Panel Pterodactyl 2GB", 
+                    "price": 3000,
+                    "image": "image/panel1.jpg"
+                },
+                {
+                    "id": "panel-3gb",
+                    "title": "Panel Pterodactyl 3GB",
+                    "price": 4000,
+                    "image": "image/panel1.jpg"
+                },
+                {
+                    "id": "panel-4gb",
+                    "title": "Panel Pterodactyl 4GB",
+                    "price": 5000,
+                    "image": "image/panel1.jpg"
+                },
+                {
+                    "id": "panel-5gb",
+                    "title": "Panel Pterodactyl 5GB",
+                    "price": 6000,
+                    "image": "image/panel1.jpg"
+                },
+                {
+                    "id": "panel-6gb",
+                    "title": "Panel Pterodactyl 6GB",
+                    "price": 7000,
+                    "image": "image/panel1.jpg"
+                },
+                {
+                    "id": "panel-7gb",
+                    "title": "Panel Pterodactyl 7GB",
+                    "price": 8000,
+                    "image": "image/panel1.jpg"
+                },
+                {
+                    "id": "panel-8gb",
+                    "title": "Panel Pterodactyl 8GB",
+                    "price": 9000,
+                    "image": "image/panel1.jpg"
+                },
+                {
+                    "id": "panel-unlimited",
+                    "title": "Panel Pterodactyl Unlimited",
+                    "price": 10000,
+                    "image": "image/panel1.jpg"
+                }
+            ]
+        },
+        {
+            "category": "vps",
+            "items": [
+                {
+                    "id": "vps-1gb-core1",
+                    "title": "VPS RAM 1GB CORE 1",
+                    "price": 15000,
+                    "image": "image/vps1.jpg"
+                },
+                {
+                    "id": "vps-2gb-core1",
+                    "title": "VPS RAM 2GB CORE 1",
+                    "price": 20000,
+                    "image": "image/vps1.jpg"
+                },
+                {
+                    "id": "vps-2gb-core2",
+                    "title": "VPS RAM 2GB CORE 2",
+                    "price": 25000,
+                    "image": "image/vps1.jpg"
+                },
+                {
+                    "id": "vps-4gb-core2",
+                    "title": "VPS RAM 4GB CORE 2",
+                    "price": 35000,
+                    "image": "image/vps1.jpg"
+                },
+                {
+                    "id": "vps-8gb-core4",
+                    "title": "VPS RAM 8GB CORE 4",
+                    "price": 45000,
+                    "image": "image/vps1.jpg"
+                },
+                {
+                    "id": "vps-16gb-core4",
+                    "title": "VPS RAM 16GB CORE 4",
+                    "price": 70000,
+                    "image": "image/vps1.jpg"
+                }
+            ]
+        }
+    ]
+}
