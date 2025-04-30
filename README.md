@@ -3,7 +3,7 @@
 <div align="center">
   <img src="media/ezgif-1412bad1436b98.gif" width="400px"/>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=28&duration=6000&pause=3200&color=00BFFF&center=true&vCenter=true&width=435&lines=why+you+don't+realize+my+feelings;ahh%2C+i+lost+again+in+something...;i'm+alone+again%2C+again+and+again)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=6000&pause=3200&color=00CED1&center=true&vCenter=true&width=500&lines=while(true)+%7Bdream();%7D;404+Error+%3A+Reality+Not+Found;Compiling+Thoughts...+Please+Wait;Code+is+poetry+in+logic)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
