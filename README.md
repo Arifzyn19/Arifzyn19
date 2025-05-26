@@ -73,7 +73,6 @@
 
 
 <details align="center">
-  <summary><h3>✧ My Coding Journey ✧</h3></summary>
   <br>
   
 ```cpp
