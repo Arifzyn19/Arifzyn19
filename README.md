@@ -71,44 +71,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Aesthetic Divider" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arifzyn19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arifzyn19&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</div>
 
-<details align="center">
-  <br>
-  
-```cpp
-#include <iostream>
-#include <string>
-#include <vector>
+<br>
 
-class Arifzyn {
-private:
-    std::vector<std::string> thoughts;
-    std::string current_mood;
-    
-public:
-    Arifzyn() : current_mood("dreamy") {
-        thoughts.push_back("Lost in digital spaces");
-        thoughts.push_back("Seeking connection");
-        thoughts.push_back("Creating worlds through code");
-    }
-    
-    void express() {
-        std::cout << "✧ Hello, I'm Arifzyn! ✧" << std::endl;
-        std::cout << "Current mood: " << current_mood << std::endl;
-        
-        std::cout << "Thoughts:" << std::endl;
-        for (const auto& thought : thoughts) {
-            std::cout << "  ❀ " << thought << std::endl;
-        }
-    }
-};
-
-int main() {
-    Arifzyn me;
-    me.express();
-    return 0;
-}
-```
-</details>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arifzyn19&theme=tokyonight&hide_border=true" />
+</div>
 
 <h1 align="center">✧༺♥༻∞༺♥༻✧</h1> 
